@@ -1,0 +1,13 @@
+@import './reset';
+@import './vars';
+@import './fonts';
+@import './mixins';
+@import './blocks/navigate';
+@import './blocks/head';
+
+main{
+    padding-top: 120px;
+    padding-left: 100px;
+    height: 1500px;
+    background-color: white;
+}
